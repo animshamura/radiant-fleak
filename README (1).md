@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamura</h1>
 <h3 align="center">A passionate programmer and a software developper</h3>
 
-- 🌱 I’m currently learning **MERN Stack, Advanced Python**
+- 🌱 I’m currently learning **Cloud Computing & Advanced Python**
 
 - 📫 How to reach me **shamuraanim7@gmail.com**
 
