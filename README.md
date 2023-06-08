@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing & Advanced Python**
 
-- 📫 How to reach me **shamuraanim7@gmail.com**
+- 📫 Contact Email **shamuraanim7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
