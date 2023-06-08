@@ -1,4 +1,4 @@
-![logo](https://github.com/animshamura/animshamura/blob/main/326126907_985613955731979_6800793923575971342_n%20(1).jpg)
+![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shamura</h1>
 <h3 align="center">A passionate programmer and a software developper</h3>
 
