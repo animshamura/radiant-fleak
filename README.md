@@ -1,6 +1,6 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Shamura</h1>
-<h3 align="center">A passionate programmer and a software developper</h3>
+<h3 align="center">ASP.NET | MERN | Spring Boot | Python </h3>
 
 - 🌱 I’m currently learning **Cloud Computing & Machine Learning**
 
