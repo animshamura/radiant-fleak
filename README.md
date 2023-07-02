@@ -28,10 +28,9 @@
 <h3 align="left">Web Structure :</h3>
 <img src="https://skillicons.dev/icons?i=html,css" />
 <h3 align="left">Operating System :</h3>
-<img src="https://github.com/animshamura/animshamura?i=windows"/>
 <img src="https://skillicons.dev/icons?i=linux" />
 <h3 align="left">Tools :</h3>
-<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma,docker," />
 
 
 
