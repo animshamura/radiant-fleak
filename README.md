@@ -13,7 +13,7 @@
 <a href="https://fb.com/hellbent.sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hellbent.sam" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Language, Tools and Technologies :</h3>
+<h3 align="left">Skill Sets :</h3>
 <h4 align="left">Programming Languages :</h4>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
 <h4 align="left">Front-end Frameworks :</h4>
