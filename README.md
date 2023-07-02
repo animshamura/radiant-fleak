@@ -24,7 +24,7 @@
 <h3 align="left">Databases :</h3>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 <h3 align="left">Libraries :</h3>
-<img src="https://skillicons.dev/icons?i=react,express,next,redux,regex,jquery,pytorch" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,next,redux,regex,jquery,pytorch" />
 <h3 align="left">Web Structure :</h3>
 <img src="https://skillicons.dev/icons?i=html,css" />
 <h3 align="left">Operating System :</h3>
