@@ -28,7 +28,7 @@
 <h3 align="left">Web Structure :</h3>
 <img src="https://skillicons.dev/icons?i=html,css" />
 <h3 align="left">Operating System :</h3>
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=linux,mac" />
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma,xd," />
 <h3 align="left">Deploy Platform :</h3>
