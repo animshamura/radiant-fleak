@@ -25,9 +25,11 @@
 <h4 align="left">Libraries :</h4>
 <img src="https://skillicons.dev/icons?i=react,express,next" />
 <h4 align="left">Web Structure :</h4>
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=html,css" />
+<h4 align="left">Operating System :</h4>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
 <h4 align="left">Tools :</h4>
-<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio" />
+<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,xampp" />
 
 
 
