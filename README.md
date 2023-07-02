@@ -2,10 +2,10 @@
 <h1 align="center"> 👋 Hi, I'm Anim</h1>
 <h2 align="center">ASP.NET | MERN | Spring Boot | Python</h2>
 
-- ***I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.***
+- **I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.**
 
-- ***Contact Email - shamuraanim7@gmail.com***
-- ***Portfolio Website - https://shamuraanim.netlify.app***
+- **Contact Email - shamuraanim7@gmail.com**
+- **Portfolio Website - https://shamuraanim.netlify.app**
 
 <h2 align="left">Connect with me :</h2>
 <p align="left">
