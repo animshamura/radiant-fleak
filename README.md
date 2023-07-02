@@ -4,8 +4,8 @@
 
 - ***I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.***
 
-- Contact Email - **shamuraanim7@gmail.com**
-- Portfolio Website - **https://shamuraanim.netlify.app**
+- ***Contact Email - shamuraanim7@gmail.com***
+- ***Portfolio Website - https://shamuraanim.netlify.app***
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
