@@ -23,10 +23,11 @@
 <h4 align="left">Databases :</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 <h4 align="left">Libraries :</h4>
-<img src="https://skillicons.dev/icons?i=react,node,express,next,mongoose" />
+<img src="https://skillicons.dev/icons?i=react,express,next" />
 <h4 align="left">Web Structure :</h4>
 <img src="https://skillicons.dev/icons?i=html" />
 <h4 align="left">Tools :</h4>
+<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio" />
 
 
 
