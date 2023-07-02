@@ -1,6 +1,6 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
-<h1 align="center"> 👋<i>Hi, I'm Shamura</i></h1>
-<h3 align="center"><i>ASP.NET | MERN | Spring Boot | Python</i> </h3>
+<h1 align="center"> 👋 Hi, I'm Shamura Ahmad Anim</h1>
+<h2 align="center">ASP.NET | MERN | Spring Boot | Python</h2>
 
 - ***I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.***
 
