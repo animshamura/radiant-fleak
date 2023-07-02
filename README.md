@@ -19,9 +19,9 @@
 <h4 align="left">Front-end Frameworks :</h4>
 <img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind" />
 <h4 align="left">Back-end Frameworks :</h4>
-<img src="https://skillicons.dev/icons?i=spring boot,dotnet,laravel" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel" />
 <h4 align="left">Databases :</h4>
-<img src="https://skillicons.dev/icons?i=mysql, postgresql,mongodb, sqlite, pinecone" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,pinecone" />
 <h4 align="left">Libraries :</h4>
 <h4 align="left">Web Structure :</h4>
 <h4 align="left">Tools :</h4>
