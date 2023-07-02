@@ -1,7 +1,7 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
 <h1 align="center"> 👋 Hi, I'm Anim</h1>
 <h2 align="center">ASP.NET | MERN | Spring Boot | Python | Laravel | Flutter</h2>
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me :</h2>
 
 - **I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.**
 
