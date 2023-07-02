@@ -27,12 +27,13 @@
 <img src="https://skillicons.dev/icons?i=nodejs,react,express,next,redux,regex,jquery,pytorch" />
 <h3 align="left">Web Structure :</h3>
 <img src="https://skillicons.dev/icons?i=html,css" />
+<h3 align="left">Deploy Platforms :</h3>
+<img src="https://skillicons.dev/icons?i=heroku,netlify,firebase" />
 <h3 align="left">Operating System :</h3>
 <img src="https://skillicons.dev/icons?i=linux" />
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma,xd," />
-<h3 align="left">Deploy Platform :</h3>
-<img src="https://skillicons.dev/icons?i=heroku,netlify,firebase" />
+
 
 
 
