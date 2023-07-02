@@ -17,6 +17,8 @@
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
+<h3 align="left">Web Structure Languages :</h3>
+<img src="https://skillicons.dev/icons?i=html,css" />
 <h3 align="left">Front-end Frameworks :</h3>
 <img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind" />
 <h3 align="left">Back-end Frameworks :</h3>
@@ -25,11 +27,9 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 <h3 align="left">Libraries :</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,react,express,next,redux,regex,jquery,pytorch" />
-<h3 align="left">Web Structure :</h3>
-<img src="https://skillicons.dev/icons?i=html,css" />
 <h3 align="left">Deploy Platforms :</h3>
 <img src="https://skillicons.dev/icons?i=heroku,netlify,firebase" />
-<h3 align="left">Operating System :</h3>
+<h3 align="left">Operating Systems :</h3>
 <img src="https://skillicons.dev/icons?i=linux" />
 <h3 align="left">Tools :</h3>
 <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma,xd," />
