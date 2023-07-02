@@ -15,15 +15,17 @@
 
 <h3 align="left">Language, Tools and Technologies :</h3>
 <h4 align="left">Programming Languages :</h4>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,typescript,cs,go,r,ruby" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
 <h4 align="left">Front-end Frameworks :</h4>
 <img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind" />
 <h4 align="left">Back-end Frameworks :</h4>
 <img src="https://skillicons.dev/icons?i=spring,dotnet,laravel" />
 <h4 align="left">Databases :</h4>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,pinecone" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 <h4 align="left">Libraries :</h4>
+<img src="https://skillicons.dev/icons?i=react,node,express,next,mongoose" />
 <h4 align="left">Web Structure :</h4>
+<img src="https://skillicons.dev/icons?i=html" />
 <h4 align="left">Tools :</h4>
 
 
