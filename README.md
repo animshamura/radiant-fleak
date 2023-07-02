@@ -19,7 +19,7 @@
 <h4 align="left">Front-end Frameworks :</h4>
 <img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind" />
 <h4 align="left">Back-end Frameworks :</h4>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,qt" />
 <h4 align="left">Databases :</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 <h4 align="left">Libraries :</h4>
@@ -27,9 +27,9 @@
 <h4 align="left">Web Structure :</h4>
 <img src="https://skillicons.dev/icons?i=html,css" />
 <h4 align="left">Operating System :</h4>
-<img src="https://skillicons.dev/icons?i=windows,linux" />
+<img src="https://skillicons.dev/icons?i=linux" />
 <h4 align="left">Tools :</h4>
-<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,xampp" />
+<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma" />
 
 
 
