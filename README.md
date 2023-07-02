@@ -15,6 +15,8 @@
 
 <h3 align="left">Language, Tools and Technologies :</h3>
 <h4 align="left">Programming Languages :</h4>
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,vim" />
 <h4 align="left">Front-end Frameworks :</h4>
 <h4 align="left">Back-end Frameworks :</h4>
 <h4 align="left">Databases :</h4>
