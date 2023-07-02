@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hi, I'm Shamura</h1>
 <h3 align="center">ASP.NET | MERN | Spring Boot | Python </h3>
 
--  I’m a passionate programmer. I am extremely into mathematics and problem solving. I have enthusiam about **Cloud Computing, Blockchain Technology & Artificial Intelligence.**
+- I’m a passionate programmer. I'm extremely into mathematics and problem solving. I'm a Manga lover. I watch Anime, Web series and movoies. I am a freaking listener of metal rock music and other than this I have enthusiam about **Cloud Computing, Blockchain Technology & Artificial Intelligence.**
 
 - 📫 Contact Email - **shamuraanim7@gmail.com**
 
