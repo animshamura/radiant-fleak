@@ -23,8 +23,8 @@
 - <a href="https://github.com/animshamura/Animato">Animato</a><br>
 
 <h4 align="left">React Projects :</h4>
-- <a href="https://github.com/animshamura/wRapitup">wRapitup</a><br>
-- <a href="https://github.com/animshamura/Chandler">Chandler</a><br>
+- <a href="https://github.com/animshamura/wRapitup-">wRapitup</a><br>
+- <a href="https://github.com/animshamura/Chandler-">Chandler</a><br>
 - <a href="https://github.com/animshamura/Breet">Breet</a><br>
 - <a href="https://github.com/animshamura/Gentle-Man">Gentle Man</a><br>
 - <a href="https://github.com/animshamura/Big-Bag">Big Bag</a><br>
