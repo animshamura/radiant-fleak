@@ -31,19 +31,19 @@
 
 <h4 align="left">Spring Boot Projects :</h4>
 - <a href="https://github.com/animshamura/Timehammer">Timehammer</a><br>
-- <a href="https://github.com/animshamura/Bladefex">Bladefex</a><br>
+- <a href="https://github.com/animshamura/Bladefex-">Bladefex</a><br>
 - <a href="https://github.com/animshamura/Blood-Point">Blood Point</a><br>
 
 <h4 align="left">ASP.NET Core Projects :</h4>
 - <a href="https://github.com/animshamura/Your-Cab">Your Cab</a><br>
-- <a href="https://github.com/animshamura/Consultor">Consultor</a><br>
+- <a href="https://github.com/animshamura/Consultor-">Consultor</a><br>
 - <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
 
 <h4 align="left">Java Projects :</h4>
 - <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
 - <a href="https://github.com/animshamura/Riddles-Dish">Riddles Dish</a><br>
 - <a href="https://github.com/animshamura/Encogit">Encogit</a><br>
-- <a href="https://github.com/animshamura/BookShop">BookShop</a><br>
+- <a href="https://github.com/animshamura/BookShop-">BookShop</a><br>
 - <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br>
 
 <h2 align="left">Skill Sets :</h2>
