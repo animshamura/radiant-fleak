@@ -16,9 +16,9 @@
 
 <h2 align="left">Index :</h2>
 <h3 align="left">HTML, CSS & JavaScript Project :</h3>
-<a href="https://github.com/animshamura/Tyme-">Tyme</a>
-<a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a>
-<a href="https://github.com/animshamura/BookIn">BookIn</a>
+- <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
+- <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
+- <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
 
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
