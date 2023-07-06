@@ -15,12 +15,19 @@
 </p>
 
 <h2 align="left">Index :</h2>
-<h4 align="left">HTML, CSS & JavaScript Project :</h4>
+<h4 align="left">HTML, CSS & JavaScript Projects :</h4>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
 - <a href="https://github.com/animshamura/Moveedo">Moveedo</a><br>
 - <a href="https://github.com/animshamura/Animato">Animato</a><br>
+
+<h4 align="left">React Projects :</h4>
+- <a href="https://github.com/animshamura/wRapitup">wRapitup</a><br>
+- <a href="https://github.com/animshamura/Chandler">Chandler</a><br>
+- <a href="https://github.com/animshamura/Breet">Breet</a><br>
+- <a href="https://github.com/animshamura/Gentle-Man">Gentle Man</a><br>
+- <a href="https://github.com/animshamura/Big-Bag">Big Bag</a><br>
 
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
