@@ -16,7 +16,7 @@
 
 <h2 align="left">Index :</h2>
 <h4 align="left">HTML, CSS & JavaScript Project :</h4>
-- <a href="https://github.com/animshamura/Tyme-">Tyme</a> : <i>Displays an analog clock</i>
+- <a href="https://github.com/animshamura/Tyme-">Tyme</a> <i color="blue'>  :  Displays an analog clock</i>
 <br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
