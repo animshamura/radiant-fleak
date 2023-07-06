@@ -15,12 +15,27 @@
 </p>
 
 <h2 align="left">Index :</h2>
+<h4 align="left">Problem Solving :</h4>
+<h5 align="left">Online Judge :</h5>
+- <a href="https://github.com/animshamura/UVA-Solve">UVA</a><br>
+- <a href="https://github.com/animshamura/Leetcode-Solve-">Leetcode</a><br>
+- <a href="https://github.com/animshamura/Beecrowd-Solve-">Beecrowd</a><br>
+- <a href="https://github.com/animshamura/Codeforces-Solve-">Codeforces</a><br>
+- <a href="https://github.com/animshamura/Timus-Solve-">Timus</a><br>
+- <a href="https://github.com/animshamura/HackerRank-Solve">Hackerrank</a><br>
+- <a href="https://github.com/animshamura/Beecrowd-Solve-">Beecrowd</a><br>
+- <a href="https://github.com/animshamura/Codeforces-Solve-">Codeforces</a><br>
+- <a href="https://github.com/animshamura/Codechef-Solve-">Codechef</a><br>
+
+
+
 <h4 align="left">HTML, CSS & JavaScript Projects :</h4>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
 - <a href="https://github.com/animshamura/Moveedo">Moveedo</a><br>
 - <a href="https://github.com/animshamura/Animato">Animato</a><br>
+
 
 <h4 align="left">React Projects :</h4>
 - <a href="https://github.com/animshamura/wRapitup-">wRapitup</a><br>
