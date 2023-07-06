@@ -19,6 +19,8 @@
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
+- <a href="https://github.com/animshamura/Moveedo">Moveedo</a><br>
+- <a href="https://github.com/animshamura/Animato">Animato</a><br>
 
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
