@@ -43,7 +43,7 @@
 - <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
 - <a href="https://github.com/animshamura/Riddles-Dish">Riddles Dish</a><br>
 - <a href="https://github.com/animshamura/Encogit">Encogit</a><br>
-- <a href="https://github.com/animshamura/BookShop-">BookShop</a><br>
+- <a href="https://github.com/animshamura/Book-Shop">Book Shop</a><br>
 - <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br>
 
 <h2 align="left">Skill Sets :</h2>
