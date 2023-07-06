@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="left">Index :</h2>
-<h3 align="left">HTML, CSS & JavaScript Project :</h3>
+<h4 align="left">HTML, CSS & JavaScript Project :</h4>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
