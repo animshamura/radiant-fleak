@@ -16,7 +16,7 @@
 
 <h2 align="left">Index :</h2>
 <h4 align="left">Problem Solving :</h4>
-<h5 align="left">Online Judge :</h5>
+<h5 align="left">Online Judges :</h5>
 - <a href="https://github.com/animshamura/UVA-Solve">UVA</a><br>
 - <a href="https://github.com/animshamura/Leetcode-Solve-">Leetcode</a><br>
 - <a href="https://github.com/animshamura/Beecrowd-Solve-">Beecrowd</a><br>
@@ -26,7 +26,7 @@
 - <a href="https://github.com/animshamura/Beecrowd-Solve-">Beecrowd</a><br>
 - <a href="https://github.com/animshamura/Codeforces-Solve-">Codeforces</a><br>
 - <a href="https://github.com/animshamura/Codechef-Solve-">Codechef</a><br>
-<h5 align="left">Contest :</h5>
+<h5 align="left">Contests :</h5>
 - <a href="https://github.com/animshamura/Samsung-RnD-Contest-2022">Samsung R&D Contest 2022</a><br>
 - <a href="https://github.com/animshamura/Meta-Hacker-Cup-2022-Solve-">Meta Hacker Cup 2022</a><br>
 - <a href="https://github.com/animshamura/Code-Samurai-2022">Code Samurai 2022</a><br>
