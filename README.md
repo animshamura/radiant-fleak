@@ -34,6 +34,11 @@
 - <a href="https://github.com/animshamura/Bladefex">Bladefex</a><br>
 - <a href="https://github.com/animshamura/Blood-Point">Blood Point</a><br>
 
+<h4 align="left">ASP.NET Core Projects :</h4>
+- <a href="https://github.com/animshamura/Your-Cab">Your Cab</a><br>
+- <a href="https://github.com/animshamura/Consultor">Consultor</a><br>
+- <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
+
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
