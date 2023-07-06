@@ -46,6 +46,22 @@
 - <a href="https://github.com/animshamura/Book-Shop">Book Shop</a><br>
 - <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br>
 
+<h4 align="left">C++/C Projects :</h4>
+- <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
+- <a href="https://github.com/animshamura/SmaCkon">SmaCkon</a><br>
+- <a href="https://github.com/animshamura/Wait-In-Room">Wait In Room</a><br>
+- <a href="https://github.com/animshamura/Tower-Of-Hanoy">Tower of Hanoy</a><br>
+
+<h4 align="left">.NET/C# Projects :</h4>
+- <a href="https://github.com/animshamura/Bill-Man">Bill Man</a><br>
+- <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
+- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
+
+<h4 align="left">Java Projects :</h4>
+- <a href="https://github.com/animshamura/Saikou">Saikou</a><br>
+- <a href="https://github.com/animshamura/Mr-Toodo">Mr Toodo</a><br>
+- <a href="https://github.com/animshamura/Endo">Endo</a><br>
+
 <h2 align="left">Skill Sets :</h2>
 <h3 align="left">Programming Languages :</h3>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
