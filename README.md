@@ -40,6 +40,9 @@
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
 - <a href="https://github.com/animshamura/Moveedo">Moveedo</a><br>
 - <a href="https://github.com/animshamura/Animato">Animato</a><br>
+- <a href="https://github.com/animshamura/Imax">Imax</a><br>
+- <a href="https://github.com/animshamura/CraiBond">CraiBond</a><br>
+- <a href="https://github.com/animshamura/Portrayal">Portrayal</a><br>
 
 
 <h3 align="left">React Projects :</h3>
