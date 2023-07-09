@@ -1,6 +1,5 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
-<h1 align="center"> 👋 Hi, I'm Anim</h1>
-<h2 align="center">ASP.NET | MERN | Spring Boot | Python</h2>
+<h1 align="center"> 👋 Hi, I'm Shamura Ahmad Anim</h1>
 <h2 align="left">About Me :</h2>
 
 - **I’m a math enthusiast, aurora lover and a metal-head.**
