@@ -1,11 +1,5 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
-<h2 align="left">Connect with me :</h2>
-<p align="left">
-<a href="https://linkedin.com/in/animshamura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animshamura" height="30" width="40" /></a>
-<a href="https://fb.com/ahmadshamura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hellbent.sam" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">Index :</h2>
+<h2 align="left">Contents :</h2>
 <h3 align="left">Problem Solving :</h3>
 <h4 align="left">Online Judges :</h4>
 - <a href="https://github.com/animshamura/UVA-Solve">UVA</a><br>
@@ -75,26 +69,6 @@
 - <a href="https://github.com/animshamura/Saikou">Saikou</a><br>
 - <a href="https://github.com/animshamura/Mr-Toodo">Mr Toodo</a><br>
 - <a href="https://github.com/animshamura/Endo">Endo</a><br>
-
-<h2 align="left">Skill Sets :</h2>
-<h3 align="left">Programming Languages :</h3>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,kotlin,php,typescript,cs,go,r,ruby" />
-<h3 align="left">Web Structure Languages :</h3>
-<img src="https://skillicons.dev/icons?i=html,css" />
-<h3 align="left">Front-end Frameworks :</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind" />
-<h3 align="left">Back-end Frameworks :</h3>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,qt" />
-<h3 align="left">Databases :</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
-<h3 align="left">Libraries :</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,next,redux,regex,jquery,pytorch" />
-<h3 align="left">Deploy Platforms :</h3>
-<img src="https://skillicons.dev/icons?i=heroku,netlify,firebase" />
-<h3 align="left">Operating Systems :</h3>
-<img src="https://skillicons.dev/icons?i=linux" />
-<h3 align="left">Tools :</h3>
-<img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,eclipse,androidstudio,postman,bash,figma,xd," />
 
 
 
