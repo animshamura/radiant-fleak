@@ -3,7 +3,7 @@
 <h2 align="center">ASP.NET | MERN | Spring Boot | Python | Laravel | Flutter</h2>
 <h2 align="left">About Me :</h2>
 
-- **I’m a passionate programmer. I'm extremely into mathematics and problem solving. I have enthusiam about Cloud Computing, Blockchain Technology & Artificial Intelligence.**
+- **I’m a math enthusiast, manga lover and a metal-head.**
 
 - **Contact Email - shamuraanim7@gmail.com**
 - **Portfolio Website - https://shamuraanim.netlify.app**
@@ -70,7 +70,7 @@
 - <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br>
 
 <h3 align="left">C++/C Projects :</h3>
-- <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
+- <a href="https://github.com/animshamura/ParkinIt">ParkinIt</a><br>
 - <a href="https://github.com/animshamura/SmaCkon">SmaCkon</a><br>
 - <a href="https://github.com/animshamura/Wait-In-Room">Wait In Room</a><br>
 - <a href="https://github.com/animshamura/Tower-Of-Hanoy">Tower of Hanoy</a><br>
