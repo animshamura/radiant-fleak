@@ -3,7 +3,7 @@
 <h2 align="center">ASP.NET | MERN | Spring Boot | Python | Laravel | Flutter</h2>
 <h2 align="left">About Me :</h2>
 
-- **I’m a math enthusiast, manga lover and a metal-head.**
+- **I’m a math enthusiast, aurora lover and a metal-head.**
 
 - **Contact Email - shamuraanim7@gmail.com**
 - **Portfolio Website - https://shamuraanim.netlify.app**
