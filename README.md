@@ -1,12 +1,4 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
-<h1 align="center"> 👋 Hello, I'm Anim.</h1>
-<h2 align="left">About Me :</h2>
-
-- **I’m a math enthusiast, aurora lover and a metal-head.**
-
-- **Contact Email - shamuraanim7@gmail.com**
-- **Portfolio Website - https://shamuraanim.netlify.app**
-
 <h2 align="left">Connect with me :</h2>
 <p align="left">
 <a href="https://linkedin.com/in/animshamura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animshamura" height="30" width="40" /></a>
