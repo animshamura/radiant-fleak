@@ -1,5 +1,5 @@
 ![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)
-<h1 align="center"> 👋 Hello, I'm Anim</h1>
+<h1 align="center"> 👋 Hello, I'm Anim.</h1>
 <h2 align="left">About Me :</h2>
 
 - **I’m a math enthusiast, aurora lover and a metal-head.**
