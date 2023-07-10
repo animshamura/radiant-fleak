@@ -1,5 +1,5 @@
 <!---![logo](https://github.com/animshamura/animshamura/blob/main/Banner.jpg)-->
-<h2 align="left">Contents :</h2>
+<h1 align="left">Contents :</h1>
 <h3 align="left">Problem Solving :</h3>
 <h4 align="left">Online Judges :</h4>
 - <a href="https://github.com/animshamura/UVA-Solve">UVA</a><br>
