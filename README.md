@@ -65,7 +65,7 @@
 - <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
 - <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
 
-<h3 align="left">Java Projects :</h3>
+<h3 align="left">Python Projects :</h3>
 - <a href="https://github.com/animshamura/Saikou">Saikou</a><br>
 - <a href="https://github.com/animshamura/Mr-Toodo">Mr Toodo</a><br>
 - <a href="https://github.com/animshamura/Endo">Endo</a><br>
