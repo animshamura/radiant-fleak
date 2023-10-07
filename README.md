@@ -1,7 +1,7 @@
 <br/>
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <br/> 
-<h1 style="color:DodgerBlue;"> About Me</h1>
+<h1 style="color:Tomato;"> About Me</h1>
 <h3>I am Shamura, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adapting a new environment.</h3>
 <h1><u>Recently Learnt Technologies</u></h1>
 <h3># Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> 
