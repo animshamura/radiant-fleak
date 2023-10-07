@@ -1,3 +1,4 @@
+I am Shamura, a DevOps Engineer and passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adaptinga new environment. <br/> 
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <h1 align="left">Contents :</h1>
 <h3 align="left">Problem Solving :</h3>
