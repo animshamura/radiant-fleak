@@ -8,7 +8,7 @@
      Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      Quantum Computing - Google AI, Qubit By Qubit, The Coding School <br/> <br/>
-</h3> <br/> <br/>
+</h3> <br/>
 <h1 align="left">Contents :</h1>
 <h3 align="left">Problem Solving :</h3>
 <h4 align="left">Online Judges :</h4>
