@@ -1,7 +1,7 @@
 
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <br/> <br/>
-***I am Shamura, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adaptinga new environment.*** <br/> 
+<h2>I am Shamura, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adaptinga new environment.</h2> <br/> 
 <h1 align="left">Contents :</h1>
 <h3 align="left">Problem Solving :</h3>
 <h4 align="left">Online Judges :</h4>
