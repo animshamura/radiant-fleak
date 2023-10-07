@@ -2,11 +2,11 @@
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <br/> <br/>
 <h1> About Me </h1>
-<h2>I am Shamura, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adapting a new environment.</h2> <br/>
-<h2> Recent Learnt Technologies </h2>
+<h3>I am Shamura, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise myself into learning new technologies and adapting a new environment.</h3> <br/>
+<h1> Recent Learnt Technologies </h1>
 <h4> Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
-     Server Administration - BASIS <br/> <br/>
+     Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      Quantum Computing - Google AI, Qubit By Qubit, The Coding School <br/> <br/>
 </h4> <br/> 
  <br/>
