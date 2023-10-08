@@ -13,7 +13,7 @@
      • Python Programming - CodeInPlace, Stanford University  <br/> <br/>
      • Quantum Computing - Google AI, Qubit By Qubit, The Coding School (On Going) 
 </h3 <br/> <br/> <br/>
-<h1></h1>Contents :</h1>
+<h1>Contents :</h1>
 <h2> Competitive Programming :</h2> 
 - <a href="https://github.com/radiant-fleak/Graph-Monkey">Graph Monkey</a> <br/>
 - <a href="https://github.com/radiant-fleak/STL-Junkie">STL Junkie</a><br/>
