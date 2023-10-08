@@ -30,8 +30,15 @@
 - <a href="https://github.com/animshamura/ICPC-Solve-">ICPC</a><br>
 - <a href="https://github.com/animshamura/Contest-Problems-Solve-">Mixed</a><br>
 
+<h3 align="left">.NET Framework Based Repositories :</h3>
+- <a href="https://github.com/animshamura/Your-Cab">Your Cab</a><br>
+- <a href="https://github.com/animshamura/Consultor-">Consultor</a><br>
+- <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
+- <a href="https://github.com/animshamura/Bill-Man">Bill Man</a><br>
+- <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
+- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
 
-<h3 align="left">HTML, CSS & JavaScript Projects :</h3>
+<h3 align="left">HTML, CSS & JavaScript Based Repositories :</h3>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
 - <a href="https://github.com/animshamura/Amazone-Clone-">Amazone Clone</a><br>
 - <a href="https://github.com/animshamura/BookIn">BookIn</a><br>
@@ -42,29 +49,33 @@
 - <a href="https://github.com/animshamura/Portrayal">Portrayal</a><br>
 
 
-<h3 align="left">React Projects :</h3>
+<h3 align="left">React Based Repositories :</h3>
 - <a href="https://github.com/animshamura/wRapitup-">wRapitup</a><br>
 - <a href="https://github.com/animshamura/Chandler-">Chandler</a><br>
 - <a href="https://github.com/animshamura/Breet">Breet</a><br>
 - <a href="https://github.com/animshamura/Gentle-Man">Gentle Man</a><br>
 - <a href="https://github.com/animshamura/Big-Bag">Big Bag</a><br>
 
-<h3 align="left">Spring Boot Projects :</h3>
+<h3 align="left">Spring Boot Based Repositories :</h3>
 - <a href="https://github.com/animshamura/Timehammer">Timehammer</a><br>
 - <a href="https://github.com/animshamura/Bladefex-">Bladefex</a><br>
 - <a href="https://github.com/animshamura/Blood-Point">Blood Point</a><br>
 
-<h3 align="left">ASP.NET Core Projects :</h3>
+<h3 align="left">.NET Framework Based Repositories :</h3>
 - <a href="https://github.com/animshamura/Your-Cab">Your Cab</a><br>
 - <a href="https://github.com/animshamura/Consultor-">Consultor</a><br>
 - <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
+- <a href="https://github.com/animshamura/Bill-Man">Bill Man</a><br>
+- <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
+- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
 
-<h3 align="left">Java Projects :</h3>
+<h3 align="left">Java Based Projects :</h3>
 - <a href="https://github.com/animshamura/Panel-Of-Clash-">Panel of Clash</a><br>
 - <a href="https://github.com/animshamura/Riddles-Dish">Riddles Dish</a><br>
 - <a href="https://github.com/animshamura/Encogit">Encogit</a><br>
 - <a href="https://github.com/animshamura/Book-Shop">Book Shop</a><br>
-- <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br>
+- <a href="https://github.com/animshamura/QuikCrik">QuikCrik</a><br/>
+
 
 <h3 align="left">C++/C Projects :</h3>
 - <a href="https://github.com/animshamura/ParkinIt">ParkinIt</a><br>
@@ -73,9 +84,7 @@
 - <a href="https://github.com/animshamura/Tower-Of-Hanoy">Tower of Hanoy</a><br>
 
 <h3 align="left">.NET/C# Projects :</h3>
-- <a href="https://github.com/animshamura/Bill-Man">Bill Man</a><br>
-- <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
-- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
+
 
 <h3 align="left">Python Projects :</h3>
 - <a href="https://github.com/animshamura/Saikou">Saikou</a><br>
