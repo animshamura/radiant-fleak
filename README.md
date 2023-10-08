@@ -2,9 +2,9 @@
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <br/> 
 <h1> About Me :</h1>
-<h3><p style="text-align: justify;">I'm Anim, a DevOps Engineer and a passionate programmer having extreme enthusiasm about
-mathematics and problem solving. I am a friendly, hardworking and an aspiring person.
-I improvise myself into learning new technologies and adapting a new environment.</p></h3>
+<h3><p>I'm Anim, a DevOps Engineer and a passionate programmer having extreme enthusiasm about<br/>
+       mathematics and problem solving. I am a friendly, hardworking and an aspiring person.<br/>
+       I improvise myself into learning new technologies and adapting a new environment.</p></h3>
 <h1>Recently Learnt Technologies :</h1>
 <h3> • Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      • Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
