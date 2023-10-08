@@ -26,7 +26,7 @@
 - <a href="https://github.com/animshamura/Samsung-RnD-Contest-2022">Samsung R&D Contest 2022</a><br>
 - <a href="https://github.com/animshamura/Meta-Hacker-Cup-2022-Solve-">Meta Hacker Cup 2022</a><br>
 - <a href="https://github.com/animshamura/Code-Samurai-2022">Code Samurai 2022</a><br>
-- <a href="https://github.com/radiant-fleak/SRBD-Contest-2023">Samsung R&D Contest 2022</a>
+- <a href="https://github.com/radiant-fleak/SRBD-Contest-2023">Samsung R&D Contest 2023</a> <br/>
 - <a href="https://github.com/animshamura/ICPC-Solve-">ICPC</a><br>
 - <a href="https://github.com/animshamura/Contest-Problems-Solve-">Mixed</a><br>
 
