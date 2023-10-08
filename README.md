@@ -12,7 +12,7 @@
      • Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
      • Python Programming - CodeInPlace, Stanford University  <br/> <br/>
      • Quantum Computing - Google AI, Qubit By Qubit, The Coding School (On Going) 
-</h3 <br/> 
+</h3> <br/> 
 <h1>Contents :</h1>
 <h2> Competitive Programming :</h2> 
 - <a href="https://github.com/radiant-fleak/Graph-Monkey">Graph Monkey</a> <br/>
