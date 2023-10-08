@@ -74,7 +74,8 @@
 - <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
 - <a href="https://github.com/radiant-fleak/NexusRend">NexuRend</a><br>
 - <a href="https://github.com/radiant-fleak/ShopXpert">ShopXpert</a><br>
-- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
+- <a href="https://github.com/radiant-fleak/PayFair">Pay Fair</a><br>
+- <a href="https://github.com/radiant-fleak/SpeedCash">Speed Cash</a><br>
 
 <h2 align="left">HTML, CSS & JavaScript Based Repositories :</h2>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
