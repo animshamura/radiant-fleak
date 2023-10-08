@@ -12,13 +12,13 @@
 </h3>
 <h1 align="left">Contents :</h1>
 <h2> Competitive Programming :</h2> 
-- <a href="https://github.com/radiant-fleak/Graph-Monkey">Graph Monkey</a>
-- <a href="https://github.com/radiant-fleak/STL-Junkie">STL Junkie</a>
-- <a href="https://github.com/radiant-fleak/Number-Furies-">Number Furies</a>
-- <a href="https://github.com/radiant-fleak/Ad-Hoc-">Ad-Hoc</a>
-- <a href="https://github.com/radiant-fleak/DP-Hunter-">DP Hunter</a
-- <a href="https://github.com/radiant-fleak/Game-Theory">Game Theory</a
-- <a href="https://github.com/radiant-fleak/Back-Beans-Tracker-">Back Beans Tracker</a>
+- <a href="https://github.com/radiant-fleak/Graph-Monkey">Graph Monkey</a> <br/>
+- <a href="https://github.com/radiant-fleak/STL-Junkie">STL Junkie</a><br/>
+- <a href="https://github.com/radiant-fleak/Number-Furies-">Number Furies</a><br/>
+- <a href="https://github.com/radiant-fleak/Ad-Hoc-">Ad-Hoc</a><br/>
+- <a href="https://github.com/radiant-fleak/DP-Hunter-">DP Hunter</a><br/>
+- <a href="https://github.com/radiant-fleak/Game-Theory">Game Theory</a><br/>
+- <a href="https://github.com/radiant-fleak/Back-Beans-Tracker-">Back Beans Tracker</a><br/>
                                                                       
 
 <h2 align="left">Problem Solving :</h2>
