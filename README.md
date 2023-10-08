@@ -2,8 +2,7 @@
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
 <br/> 
 <h1> About Me :</h1>
-<h3>I'm Anim, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise
-     myself into learning new technologies and adapting a new environment.</h3 <br/>
+<h3>I'm Anim, a DevOps Engineer and a passionate programmer having extreme enthusiasm about mathematics and problem solving. I am a friendly, hardworking and an aspiring person. I improvise <br/> myself into learning new technologies and adapting a new environment.</h3 <br/>
 <h1>Recently Learnt Technologies :</h1>
 <h3> • Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      • Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
@@ -72,6 +71,9 @@
 - <a href="https://github.com/animshamura/AppScope">AppScope</a><br>
 - <a href="https://github.com/animshamura/Bill-Man">Bill Man</a><br>
 - <a href="https://github.com/animshamura/QuizBiz">QuizBiz</a><br>
+- <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
+- <a href="https://github.com/radiant-fleak/NexusRend">NexuRend</a><br>
+- <a href="https://github.com/radiant-fleak/ShopXpert">ShopXpert</a><br>
 - <a href="https://github.com/animshamura/Big-Brother">Big Brother</a><br>
 
 <h2 align="left">HTML, CSS & JavaScript Based Repositories :</h2>
