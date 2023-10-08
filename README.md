@@ -59,10 +59,10 @@
                                                             
 <h2>Cloud Computing & DevOps Based Repositories : </h2> 
 - <a href="https://github.com/radiant-fleak/AWS-Cloud-Services"> AWS Cloud</a> <br/>
-- <a href="https://github.com/radiant-fleak/Google-Cloud-Services">Google Cloud</a <br/> 
-- <a href="https://github.com/radiant-fleak/MS-Azure-Cloud-Services">Azure Cloud</a <br/> 
-- <a href="https://github.com/radiant-fleak/Jenkins">Jenkins</a <br/> 
-- <a href="https://github.com/radiant-fleak/Kubernetes">Kubernetes</a <br/> 
+- <a href="https://github.com/radiant-fleak/Google-Cloud-Services">Google Cloud</a> <br/> 
+- <a href="https://github.com/radiant-fleak/MS-Azure-Cloud-Services">Azure Cloud</a><br/> 
+- <a href="https://github.com/radiant-fleak/Jenkins">Jenkins</a><br/> 
+- <a href="https://github.com/radiant-fleak/Kubernetes">Kubernetes</a> <br/> 
 
 
 <h2 align="left">.NET Framework Based Repositories :</h2>
