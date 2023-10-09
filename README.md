@@ -79,6 +79,9 @@
 - <a href="https://github.com/radiant-fleak/ShopXpert">ShopXpert</a><br>
 - <a href="https://github.com/radiant-fleak/PayFair">Pay Fair</a><br>
 - <a href="https://github.com/radiant-fleak/SpeedCash">Speed Cash</a><br>
+- <a href="https://github.com/radiant-fleak/Infosis-App">InfosisApp</a><br>
+- <a href="https://github.com/radiant-fleak/DataFetch-App">DataFetch App</a><br>
+- <a href="https://github.com/radiant-fleak/CRUD-App">CRUD-App</a><br>
 
 <h2 align="left">HTML, CSS & JavaScript Based Repositories :</h2>
 - <a href="https://github.com/animshamura/Tyme-">Tyme</a><br>
@@ -111,6 +114,9 @@
 - <a href="https://github.com/radiant-fleak/HooksModify">HooksModify</a><br>
 - <a href="https://github.com/radiant-fleak/StateHooks">StateHooks</a><br>
 - <a href="https://github.com/radiant-fleak/httpView-App">httpView-App</a><br>
+- <a href="https://github.com/radiant-fleak/CRUD-App-React-Node-">CRUD App</a><br>
+- <a href="https://github.com/radiant-fleak/View-App">View-App</a><br>
+- <a href="https://github.com/radiant-fleak/React-In-Silence-">React In Silence</a><br>
 
 <h2 align="left">Spring Boot Based Repositories :</h2>
 - <a href="https://github.com/animshamura/Timehammer">Timehammer</a><br>
