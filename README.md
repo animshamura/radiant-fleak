@@ -7,11 +7,11 @@
      ☐ I am a friendly, hardworking and an aspiring person.<br/>  <br/>
      ☐ I improvise myself into learning new technologies and adapting a new environment.</p></h3>
 <h1>Recently Learnt Technologies :</h1>
-<h3> • Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
-     • Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
-     • Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
-     • Python Programming - CodeInPlace, Stanford University  <br/> <br/>
-     • Quantum Computing - Google AI, Qubit By Qubit, The Coding School (On Going) 
+<h3> ☐ Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
+     ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
+     ☐ Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
+     ☐ Python Programming - CodeInPlace, Stanford University  <br/> <br/>
+     ☐ Quantum Computing - Google AI, Qubit By Qubit, The Coding School (On Going) 
 </h3> <br/> 
 <h1>Contents :</h1>
 <h2> Competitive Programming :</h2> 
