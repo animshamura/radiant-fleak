@@ -1,11 +1,10 @@
 <img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
-<br/> 
-<h1> About Me :</h1>
-<h3> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
+<h2> About Me :</h2>
+<h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
      ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
      ☐ I am a friendly, hardworking and an aspiring person.<br/>  <br/>
-     ☐ I improvise myself into learning new technologies and adapting a new environment.</p></h3>
-<h1>Recently Learnt Technologies :</h1>
+     ☐ I improvise myself into learning new technologies and adapting a new environment.</p></h4>
+<h2>Recently Learnt Technologies :</h2>
 <h3> ☐ Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
      ☐ Server Administration - Bangladesh Association of Software and Information Services (BASIS) <br/> <br/>
