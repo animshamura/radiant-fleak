@@ -3,7 +3,7 @@
 <h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
      ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
      ☐ I am a friendly, hardworking and an aspiring person.<br/>  <br/>
-     ☐ I improvise myself into learning new technologies and adapting a new environment.</p></h4>
+     ☐ I improvise myself into learning new technologies and adapting a new environment.</h4>
 <h2>Recently Learnt Technologies :</h2>
 <h4> ☐ Cloud Computing & DevOps Methodology - Bangladesh Computer Council <br/> <br/>
      ☐ Artificial Intelligence - Bangladesh Computer Council <br/> <br/>
