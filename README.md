@@ -1,4 +1,4 @@
-<img src="https://github.com/animshamura/animshamura/blob/main/Banner.jpg">
+<img src="https://github.com/radiant-fleak/radiant-fleak/blob/main/Banner.jpg">
 <h2> About Me :</h2>
 <h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
      ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
