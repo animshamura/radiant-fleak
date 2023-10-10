@@ -1,4 +1,5 @@
-<img src="https://github.com/radiant-fleak/radiant-fleak/blob/main/Banner.jpg">
+<div style="color:white;">
+     <img src="https://github.com/radiant-fleak/radiant-fleak/blob/main/Banner.jpg">
 <h2> About Me :</h2>
 <h4> ☐ I'm Shamura, a DevOps Engineer and a passionate programmer. <br/>  <br/>
      ☐ Having extreme enthusiasm about mathematics and problem solving. <br/>  <br/>
@@ -130,6 +131,7 @@
 - <a href="https://github.com/animshamura/A-Node-to-Reach-">A Node to Reach</a><br>
 - <a href="https://github.com/animshamura/One-Single-Destination">One Single Destination</a><br>
 - <a href="https://github.com/animshamura/The-Next-MST">The Next MST</a><br/>
+</div>
 
 
 <h3 align="left">C++/C Based Repositories :</h3>
